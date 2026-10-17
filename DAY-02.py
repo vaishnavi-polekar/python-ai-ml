@@ -4,7 +4,7 @@ a=input("Enter a:")
 b=input("Enter b:")
 c=int(a)+int(b)
 print(c)
-print(type(c))
+print(type(a))
 
 # Implicit Type Conversion
 print(5+5.6)
